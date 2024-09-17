@@ -1,5 +1,5 @@
 """
-Convert the EV CHARGE documentation from raw Word conversion to Jekyll page format.
+Convert the LEZ model documentation from raw Word conversion to Jekyll page format.
 
 Caleb Braun
 3/1/2021
