@@ -12,7 +12,7 @@ The LEZ model was first developed in 2020 by Caleb Braun, Yoann Bernard, and Jos
 
 ## Versions
 
-LEZ is under continuing development. Documentation of all versions since v2.1 can be found here.
+The LEZ model is under continuing development. Documentation of all versions since v2.1 can be found here.
 
 {% assign pages = site.pages | sort: "title" | reverse %}
 {% for page in pages %}
