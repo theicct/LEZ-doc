@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# This script converts the shared EV CHARGE documentation into the Markdown format
+# This script converts the shared LEZ documentation into the Markdown format
 # needed by Jekyll to render the page correctly. The script doc_to_page.py
 # contains most of the processing, which focuses on formatting the table of
 # contents, headers, and equations correctly.
